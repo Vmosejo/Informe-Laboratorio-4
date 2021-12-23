@@ -45,7 +45,8 @@ Finalmente procedemos a encontrar Ix
 ![Diagrama en blanco (4)](https://user-images.githubusercontent.com/93681159/147139919-76537ef7-1720-41a9-b640-8502e70df87b.jpeg)
 Para determinar el voltaje Va utilizamos la fórmula del divisor de voltaje, donde R1||R2 + R3, con estas relaciones y tomando en cuenta la dirección de la corriente usamos la fórmula del divisor de corriente.
 ![Diagrama en blanco (6)](https://user-images.githubusercontent.com/93681159/147178599-56b1ed70-e642-4d17-99e3-3f0256e2955c.jpeg)
-Por ultimo hacemos la suma algebraica de los voltajes obtenidos en los dos circuitos analizados para encontrar el voltaje total Va que pasa por R3. 
+Por ultimo hacemos la suma algebraica de los voltajes obtenidos en los dos circuitos analizados para encontrar el voltaje total Va que pasa por R3.
+
 ![Diagrama en blanco (7)](https://user-images.githubusercontent.com/93681159/147179138-e6978bf5-70b2-434a-8674-c4642dd91a8b.jpeg)
 ## Circuito en tinkercad:
 ### Preparamos los componentes.
@@ -56,6 +57,11 @@ Por ultimo hacemos la suma algebraica de los voltajes obtenidos en los dos circu
 ![ee3ea0ee-30ac-4c31-b010-0dca7e6b459c](https://user-images.githubusercontent.com/93893919/147180938-6f54365a-28f2-45ee-a714-4f0dbfa9bef8.jpg)
 ### Tablas de resultados
 * Tabla 4.1. Medición de voltaje aplicando superposición.
+![image](https://user-images.githubusercontent.com/93681159/147183948-20d15ab3-6534-4692-8962-fdb237f034e1.png)
+
+* Tabla 4.2. Medición de corriente aplicando superposición.
+![image](https://user-images.githubusercontent.com/93681159/147184025-c17f7629-43c7-443f-8b75-de94a73c37fe.png)
+
 ## 4. CALCULO DEL ERROR
 * Voltaje Va:
 ![Diagrama en blanco (8)](https://user-images.githubusercontent.com/93681159/147181534-a93d9822-19ee-4063-b3e3-26e342882a88.jpeg)
