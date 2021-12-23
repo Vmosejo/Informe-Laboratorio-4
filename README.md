@@ -14,7 +14,7 @@
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 En primer lugar, armamos nuestro circuito y procedemos a identificar cada uno de sus componentes.
-![circuito-L4](https://user-images.githubusercontent.com/93681159/147175520-1ecc3158-e644-464d-943d-f4434de4514e.jpeg)
+![circuito-L4](https://user-images.githubusercontent.com/93681159/147176618-91ba0c32-9177-4b47-8acd-1895cbf70e15.jpeg)
 
 Un vez tengamos el circuito armado procedemos a medir el voltaje VA y la corriente Ix con las dos fuentes de voltaje conectadas. 
 ![image](https://user-images.githubusercontent.com/93681159/147130054-78681cb2-a315-449f-b1b2-9a9e79cb6eac.png)
@@ -29,6 +29,10 @@ Con la resistencia equivalente procedemos a encontrar la corriente total del cir
 Finalmente procedemos a encontrar Ix
 ![Diagrama en blanco (3)](https://user-images.githubusercontent.com/93681159/147136752-2d404ba0-cd1a-4d0a-95e7-9b67d591e99e.jpeg)
 Es importante tener en cuenta que, dado que la corriente no circula por R4, por lo tanto el valor de la corriente Ix del primer circuito es cero.
+Para determinar el voltaje Va utilizamos la fórmula del divisor de voltaje, dado que no se toma en cuenta la resistencia R4, procedemos a calcular la resistencia equivalente entre R2||R3.
+![Diagrama en blanco](https://user-images.githubusercontent.com/93681159/147176677-399afb6b-ffc1-470e-9d5b-13b3f3815f84.jpeg)
+Una vez determinada la resistencia equivalente, aplicamos el divisor de voltaje para hallar Va
+![Diagrama en blanco (5)](https://user-images.githubusercontent.com/93681159/147178036-29d71d89-9183-4c95-9a2c-01b833855b5a.jpeg)
 ### Análisis del segundo circuito
 Para continuar con el Teorema se superposición procedemos a hacer “cero” la fuente de voltaje de 20 V.
 ![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93681159/147137603-51b4ec8b-efc9-4fda-92ab-40ce458f4e21.jpeg)
@@ -39,6 +43,10 @@ Con la resistencia equivalente procedemos a encontrar la corriente total del cir
 
 Finalmente procedemos a encontrar Ix
 ![Diagrama en blanco (4)](https://user-images.githubusercontent.com/93681159/147139919-76537ef7-1720-41a9-b640-8502e70df87b.jpeg)
+Para determinar el voltaje Va utilizamos la fórmula del divisor de voltaje, donde R1||R2 + R3, con estas relaciones y tomando en cuenta la dirección de la corriente usamos la fórmula del divisor de corriente.
+![Diagrama en blanco (6)](https://user-images.githubusercontent.com/93681159/147178599-56b1ed70-e642-4d17-99e3-3f0256e2955c.jpeg)
+Por ultimo hacemos la suma algebraica de los voltajes obtenidos en los dos circuitos analizados para encontrar el voltaje total Va que pasa por R3. 
+![Diagrama en blanco (7)](https://user-images.githubusercontent.com/93681159/147179138-e6978bf5-70b2-434a-8674-c4642dd91a8b.jpeg)
 ## Circuito en tinkercad:
 ### Preparamos los componentes.
 ![e43d6714-69c1-4676-863f-1164ece5612b](https://user-images.githubusercontent.com/93893919/147180848-0f921fac-5ae3-4328-924a-e19b76a8ad3e.jpg)
@@ -46,8 +54,13 @@ Finalmente procedemos a encontrar Ix
 ![2fe42dad-25f8-49ba-8b64-cf686044ef59](https://user-images.githubusercontent.com/93893919/147180885-b617223b-8ced-45e4-ad91-9f659941c0c0.jpg)
 ### Medimos los valores.
 ![ee3ea0ee-30ac-4c31-b010-0dca7e6b459c](https://user-images.githubusercontent.com/93893919/147180938-6f54365a-28f2-45ee-a714-4f0dbfa9bef8.jpg)
-
-## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+### Tablas de resultados
+* Tabla 4.1. Medición de voltaje aplicando superposición.
+## 4. CALCULO DEL ERROR
+* Voltaje Va:
+![Diagrama en blanco (8)](https://user-images.githubusercontent.com/93681159/147181534-a93d9822-19ee-4063-b3e3-26e342882a88.jpeg)
+* Corriente Ix:
+![Diagrama en blanco (9)](https://user-images.githubusercontent.com/93681159/147181690-19b9efd2-32c1-486f-9e1c-fde74a228fac.jpeg)
 ## 5. VIDEO
 ## 6. CONCLUSIONES
 ## 7. BIBLIOGRAFÍA 
