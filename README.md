@@ -80,4 +80,9 @@ Por ultimo hacemos la suma algebraica de los voltajes obtenidos en los dos circu
 ![Diagrama en blanco (9)](https://user-images.githubusercontent.com/93681159/147181690-19b9efd2-32c1-486f-9e1c-fde74a228fac.jpeg)
 ## 5. VIDEO
 ## 6. CONCLUSIONES
+* Gracias al análisis del circuito propuesto dónde se aplico el teorema de superposición,se llegó a la conclusión que es de utilidad para examinar circuitos que impliquen dos o más fuentes.
+* Se comprobo el margen de error que se obtuvo entre la comparación de los valores teóricos y lo valores obtenidos en la simulación, el cual es considerable, no se obtuvieron resultados exactos.
+* Se verifico que los resultados obtenidos mediante el método de superposición son similares a los datos obtenidos en la simulación del circuito.
 ## 7. BIBLIOGRAFÍA 
+* Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
+* A.Svoboda, R. C. (2011). Circuitos Electricos. Mexico: Alfaomega.
