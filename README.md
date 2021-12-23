@@ -30,7 +30,8 @@ Ahora procedemos a medir la corriente Ix y el voltaje Va en cada uno de los caso
 ![image](https://user-images.githubusercontent.com/93681159/147186538-375fcaf5-c42b-4945-87a5-8ee43eafccff.png)
 ### Análisis del primer circuito
 Para realizar el proceso analítico por medio del teorema de superposición procedemos a hacer “cero” la fuente de voltaje de 12 V.
-![Diagrama en blanco](https://user-images.githubusercontent.com/93681159/147137068-11737dc1-47aa-42fb-abac-af5a7636b50f.jpeg)
+![Diagrama en blanco (10)](https://user-images.githubusercontent.com/93681159/147187903-d9acfed0-7cea-4132-85c6-d67044fd60c8.jpeg)
+
 Procedemos a realizar el análisis del nuevo circuito, en primer lugar, encontramos la resistencia equivalente para hallar la corriente total que pasa por el circuito y finalmente determinar Ix.
 ![Diagrama en blanco (2)](https://user-images.githubusercontent.com/93681159/147136183-1202071e-a53c-4c17-8fe5-b9b8da08159e.jpeg)
 Con la resistencia equivalente procedemos a encontrar la corriente total del circuito. 
