@@ -14,8 +14,9 @@
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 En primer lugar, armamos nuestro circuito y procedemos a identificar cada uno de sus componentes.
-![circuito-L4](https://user-images.githubusercontent.com/93681159/147137454-190c37ff-08d9-4d35-a8a0-2b5bb79a6d78.jpeg)
-Un vez tengamos el circuito armado procedemos a medir el voltaje VA y la corriente IX con las dos fuentes de voltaje conectadas. 
+![circuito-L4](https://user-images.githubusercontent.com/93681159/147175520-1ecc3158-e644-464d-943d-f4434de4514e.jpeg)
+
+Un vez tengamos el circuito armado procedemos a medir el voltaje VA y la corriente Ix con las dos fuentes de voltaje conectadas. 
 ![image](https://user-images.githubusercontent.com/93681159/147130054-78681cb2-a315-449f-b1b2-9a9e79cb6eac.png)
 ### Análisis del primer circuito
 Para realizar el proceso analítico por medio del teorema de superposición procedemos a hacer “cero” la fuente de voltaje de 12 V.
@@ -27,7 +28,7 @@ Con la resistencia equivalente procedemos a encontrar la corriente total del cir
 
 Finalmente procedemos a encontrar Ix
 ![Diagrama en blanco (3)](https://user-images.githubusercontent.com/93681159/147136752-2d404ba0-cd1a-4d0a-95e7-9b67d591e99e.jpeg)
-Es importante tener en cuenta que, dado que la corriente no circula por R4, el valor obtenido es imaginario.
+Es importante tener en cuenta que, dado que la corriente no circula por R4, por lo tanto el valor de la corriente Ix del primer circuito es cero.
 ### Análisis del segundo circuito
 Para continuar con el Teorema se superposición procedemos a hacer “cero” la fuente de voltaje de 20 V.
 ![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93681159/147137603-51b4ec8b-efc9-4fda-92ab-40ce458f4e21.jpeg)
