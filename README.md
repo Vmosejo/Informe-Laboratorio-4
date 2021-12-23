@@ -40,11 +40,14 @@ Con la resistencia equivalente procedemos a encontrar la corriente total del cir
 Finalmente procedemos a encontrar Ix
 ![Diagrama en blanco (4)](https://user-images.githubusercontent.com/93681159/147139919-76537ef7-1720-41a9-b640-8502e70df87b.jpeg)
 Circuito en tinkercad:
-Preparamos los componentes
+Preparamos los componentes.
+
 ![e43d6714-69c1-4676-863f-1164ece5612b](https://user-images.githubusercontent.com/93893919/147180848-0f921fac-5ae3-4328-924a-e19b76a8ad3e.jpg)
-Construimos el circuito
+Construimos el circuito.
+
 ![2fe42dad-25f8-49ba-8b64-cf686044ef59](https://user-images.githubusercontent.com/93893919/147180885-b617223b-8ced-45e4-ad91-9f659941c0c0.jpg)
-Medimos los valores
+Medimos los valores.
+
 ![ee3ea0ee-30ac-4c31-b010-0dca7e6b459c](https://user-images.githubusercontent.com/93893919/147180938-6f54365a-28f2-45ee-a714-4f0dbfa9bef8.jpg)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
