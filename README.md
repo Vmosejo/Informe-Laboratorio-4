@@ -22,6 +22,7 @@ Un vez tengamos el circuito armado procedemos a medir el voltaje VA y la corrien
 Ahora procedemos a medir la corriente Ix y el voltaje Va en cada uno de los casos, cuando V1=0 y cuando V2=0.
 * Voltaje Va cuando V2=0
 ![image](https://user-images.githubusercontent.com/93681159/147185274-0a6bdb80-9ca3-417d-875c-758ecda2f8ca.png)
+
 * Voltaje Va cuando V1=0
 ![image](https://user-images.githubusercontent.com/93681159/147186307-93a63297-effb-4c64-a14d-24cbeed524b3.png)
 * Corriente Ix cuando V2=0
