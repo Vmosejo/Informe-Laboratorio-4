@@ -79,6 +79,7 @@ Por ultimo hacemos la suma algebraica de los voltajes obtenidos en los dos circu
 * Corriente Ix:
 ![Diagrama en blanco (9)](https://user-images.githubusercontent.com/93681159/147181690-19b9efd2-32c1-486f-9e1c-fde74a228fac.jpeg)
 ## 5. VIDEO
+https://www.youtube.com/watch?v=P3QfoCuLULg
 ## 6. CONCLUSIONES
 * Gracias al análisis del circuito propuesto dónde se aplico el teorema de superposición,se llegó a la conclusión que es de utilidad para examinar circuitos que impliquen dos o más fuentes.
 * Se comprobo el margen de error que se obtuvo entre la comparación de los valores teóricos y lo valores obtenidos en la simulación, el cual es considerable, no se obtuvieron resultados exactos.
