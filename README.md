@@ -18,6 +18,15 @@ En primer lugar, armamos nuestro circuito y procedemos a identificar cada uno de
 
 Un vez tengamos el circuito armado procedemos a medir el voltaje VA y la corriente Ix con las dos fuentes de voltaje conectadas. 
 ![image](https://user-images.githubusercontent.com/93681159/147130054-78681cb2-a315-449f-b1b2-9a9e79cb6eac.png)
+Ahora procedemos a medir la corriente Ix y el voltaje Va en cada uno de los casos, cuando V1=0 y cuando V2=0.
+* Voltaje Va cuando V2=0
+![image](https://user-images.githubusercontent.com/93681159/147185274-0a6bdb80-9ca3-417d-875c-758ecda2f8ca.png)
+* Voltaje Va cuando V1=0
+![image](https://user-images.githubusercontent.com/93681159/147186307-93a63297-effb-4c64-a14d-24cbeed524b3.png)
+* Corriente Ix cuando V2=0
+![image](https://user-images.githubusercontent.com/93681159/147186459-fd37ff3c-c0e8-4a73-a265-9e8fadd532e0.png)
+* Corriente Ix cuando V1=0
+![image](https://user-images.githubusercontent.com/93681159/147186538-375fcaf5-c42b-4945-87a5-8ee43eafccff.png)
 ### Análisis del primer circuito
 Para realizar el proceso analítico por medio del teorema de superposición procedemos a hacer “cero” la fuente de voltaje de 12 V.
 ![Diagrama en blanco](https://user-images.githubusercontent.com/93681159/147137068-11737dc1-47aa-42fb-abac-af5a7636b50f.jpeg)
